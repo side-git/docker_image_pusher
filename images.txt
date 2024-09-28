@@ -1,2 +1,2 @@
 mysql:8.0
-php:10
+php:10-fpm
