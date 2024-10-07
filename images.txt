@@ -1,2 +1,1 @@
-mysql:8.0
-php:8.0
+controller:v1.11.2
