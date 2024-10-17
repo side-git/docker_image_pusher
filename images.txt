@@ -1,2 +1,2 @@
 
-php:8-apache
+nginx:1.26
