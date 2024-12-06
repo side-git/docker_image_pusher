@@ -1,2 +1,2 @@
 
-mysql:8.0
+jumpserver/jms_all:1.5.8
