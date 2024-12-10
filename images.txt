@@ -1,1 +1,2 @@
-kibana:8.6.0
+
+ goosefs:v1.0.0
