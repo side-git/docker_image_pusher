@@ -1,3 +1,3 @@
 
- GooseFS:v1.2.0
+ prom/prometheus:v3.0.1
 
