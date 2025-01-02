@@ -1,2 +1,2 @@
-docker pull ceph/ceph
+ceph/ceph:v16
 
