@@ -1,2 +1,2 @@
-ceph/ceph:v16
+ceph/daemon
 
