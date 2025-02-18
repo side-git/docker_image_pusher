@@ -1,2 +1,2 @@
-ceph/daemon
+mysql:8.0
 
