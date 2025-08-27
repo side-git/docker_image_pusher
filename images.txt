@@ -1,2 +1,1 @@
-nginx:1.28
-
+gitlab/gitlab-ce:latest
