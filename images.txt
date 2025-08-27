@@ -1,2 +1,2 @@
-gitlib:latest
+nginx:1.27
 
