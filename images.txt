@@ -1,1 +1,1 @@
-jenkinsci/blueocean:1.25.3-bcc31d32159f
+minio:RELEASE.2025-07-23T15-54-02Z-cpuv1
