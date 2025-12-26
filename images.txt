@@ -1,1 +1,1 @@
-rapidfort/argocd
+bitnami/java:1.8.382-6-debian-11-r33
