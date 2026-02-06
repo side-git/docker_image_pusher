@@ -1,2 +1,2 @@
 
-jumeserver:latest
+nginx:1.29
