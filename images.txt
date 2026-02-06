@@ -1,2 +1,2 @@
 
-jumeserver/jumeserver:latest
+jumeserver:latest
