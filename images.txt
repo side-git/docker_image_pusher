@@ -1,2 +1,1 @@
-
-nginx:1.29
+jumeserver/jumeserver:2.0.0
