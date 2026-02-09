@@ -1,1 +1,1 @@
-jumeserver/jumeserver:2.0.0
+jumpserver/jumpserver:latest
